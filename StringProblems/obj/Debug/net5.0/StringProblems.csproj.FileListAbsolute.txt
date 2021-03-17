@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\StringProblems.exe
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\StringProblems.deps.json
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\StringProblems.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\StringProblems.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\StringProblems.dll
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\ref\StringProblems.dll
+D:\Important Documents\GitHub Codes\C#\StringProblems\bin\Debug\net5.0\StringProblems.pdb
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.dll
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\ref\StringProblems.dll
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.pdb
+D:\Important Documents\GitHub Codes\C#\StringProblems\obj\Debug\net5.0\StringProblems.genruntimeconfig.cache
